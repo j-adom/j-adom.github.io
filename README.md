@@ -1,1 +1,0 @@
-# j-adom.github.io
