@@ -19,6 +19,10 @@ body {
   clear: both;
 }
 
+.card {
+  float: left;
+}
+
 h1,
 h2,
 h3,
